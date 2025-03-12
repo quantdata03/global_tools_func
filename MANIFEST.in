@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+recursive-include global_tools_func/config_path *.xlsx
+recursive-include global_tools_func/static_data *.xlsx *.csv 
